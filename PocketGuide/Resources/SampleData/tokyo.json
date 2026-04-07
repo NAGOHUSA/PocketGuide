@@ -1,0 +1,126 @@
+{
+  "entries": [
+    {
+      "id": "tokyo-transport-1",
+      "title": "Navigating the Tokyo Metro",
+      "body": "Tokyo's subway system is one of the world's most extensive, with 13 lines serving over 280 stations. Buy a Suica or Pasmo IC card at any station—these work on all trains, buses, and even convenience stores. The IC card costs ¥500 deposit and can be topped up at machines or via Apple Pay. Key lines for tourists: Yamanote Line (JR, loops around central Tokyo), Ginza Line (oldest, connects Asakusa to Shibuya), and Chuo/Sobu Line (east-west across the city). Always stand on the left side of escalators, and keep phone calls silent on the train.",
+      "category": "Getting Around",
+      "tags": ["subway", "metro", "IC card", "Suica", "Pasmo"],
+      "neighborhood": "Citywide",
+      "isFeatured": true,
+      "sortOrder": 1
+    },
+    {
+      "id": "tokyo-culture-1",
+      "title": "Essential Japanese Etiquette",
+      "body": "Japan has a rich culture of respect. Remove your shoes before entering a home or traditional restaurant. Bow slightly when greeting. Never stick chopsticks upright in rice. Slurping noodles is a compliment. Tipping is not practiced. Always carry cash—many places are cash-only. Trash cans are rare; carry your rubbish until you find one at a convenience store.",
+      "category": "Culture & Etiquette",
+      "tags": ["etiquette", "customs", "bowing", "chopsticks"],
+      "neighborhood": "Citywide",
+      "isFeatured": true,
+      "sortOrder": 2
+    },
+    {
+      "id": "tokyo-food-1",
+      "title": "Where to Eat in Shinjuku",
+      "body": "Shinjuku offers everything from Michelin-starred kaiseki to ¥500 ramen. Omoide Yokocho near the west exit has tiny yakitori stalls open late. Takashimaya Times Square B1-B2 has an excellent food hall. For ramen, try Ramen Street inside Shinjuku Station. Budget: street food ¥500-1,000 · casual ¥1,000-2,500 · mid-range ¥3,000-6,000.",
+      "category": "Food & Drink",
+      "tags": ["ramen", "yakitori", "sushi", "Shinjuku"],
+      "neighborhood": "Shinjuku",
+      "isFeatured": false,
+      "sortOrder": 3
+    },
+    {
+      "id": "tokyo-sights-1",
+      "title": "Senso-ji Temple, Asakusa",
+      "body": "Senso-ji is Tokyo's oldest temple, founded in 645 AD. Enter through the Kaminarimon ('Thunder Gate'). The Nakamise shopping street sells traditional souvenirs. Arrive before 8 AM to avoid crowds. Draw an omikuji (fortune) for ¥100. The five-storey pagoda and main hall are free to enter.",
+      "category": "Sights & Attractions",
+      "tags": ["temple", "Asakusa", "history"],
+      "neighborhood": "Asakusa",
+      "isFeatured": true,
+      "sortOrder": 4
+    },
+    {
+      "id": "tokyo-emergency-1",
+      "title": "Emergency Information",
+      "body": "Emergency numbers in Japan: Police 110 · Ambulance/Fire 119. Tokyo Metropolitan Police English helpline: 03-3501-0110 (24h). Japan Helpline (English): 0570-000-911. Hospitals with English services: St. Luke's International (Tsukiji): 03-5550-7166 · Tokyo Medical and Surgical Clinic (Toranomon): 03-3436-3028.",
+      "category": "Emergency",
+      "tags": ["emergency", "police", "hospital"],
+      "neighborhood": "Citywide",
+      "isFeatured": false,
+      "sortOrder": 5
+    }
+  ],
+  "phrases": [
+    {
+      "id": "tokyo-phrase-1",
+      "originalText": "Hello / Good day",
+      "translatedText": "こんにちは",
+      "romanization": "Konnichiwa",
+      "category": "Greetings"
+    },
+    {
+      "id": "tokyo-phrase-2",
+      "originalText": "Thank you very much",
+      "translatedText": "ありがとうございます",
+      "romanization": "Arigatō gozaimasu",
+      "category": "Greetings"
+    },
+    {
+      "id": "tokyo-phrase-3",
+      "originalText": "Excuse me / Sorry",
+      "translatedText": "すみません",
+      "romanization": "Sumimasen",
+      "category": "Social"
+    },
+    {
+      "id": "tokyo-phrase-4",
+      "originalText": "Where is the subway station?",
+      "translatedText": "地下鉄の駅はどこですか？",
+      "romanization": "Chikatetsu no eki wa doko desu ka?",
+      "category": "Directions"
+    },
+    {
+      "id": "tokyo-phrase-5",
+      "originalText": "I would like this, please",
+      "translatedText": "これをください",
+      "romanization": "Kore o kudasai",
+      "category": "Food & Dining"
+    },
+    {
+      "id": "tokyo-phrase-6",
+      "originalText": "How much does this cost?",
+      "translatedText": "いくらですか？",
+      "romanization": "Ikura desu ka?",
+      "category": "Shopping"
+    },
+    {
+      "id": "tokyo-phrase-7",
+      "originalText": "Please call an ambulance",
+      "translatedText": "救急車を呼んでください",
+      "romanization": "Kyūkyūsha o yonde kudasai",
+      "category": "Emergency"
+    },
+    {
+      "id": "tokyo-phrase-8",
+      "originalText": "I don't understand Japanese",
+      "translatedText": "日本語がわかりません",
+      "romanization": "Nihongo ga wakarimasen",
+      "category": "Social"
+    },
+    {
+      "id": "tokyo-phrase-9",
+      "originalText": "Do you have an English menu?",
+      "translatedText": "英語のメニューはありますか？",
+      "romanization": "Eigo no menyū wa arimasu ka?",
+      "category": "Food & Dining"
+    },
+    {
+      "id": "tokyo-phrase-10",
+      "originalText": "One ticket to [destination], please",
+      "translatedText": "[目的地]まで一枚ください",
+      "romanization": "[Mokuteki-chi] made ichimai kudasai",
+      "category": "Transport"
+    }
+  ]
+}
